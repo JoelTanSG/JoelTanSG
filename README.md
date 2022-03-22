@@ -22,6 +22,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :hammer_and_wrench: Languages and Tools :
+
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" title="SQL" **alt="SQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" title="Python" alt="" width="50" height="50"/>
+   <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="50" height="50"/>
+</div>
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelTanSG&theme=dark&background=000000)](https://git.io/streak-stats)
