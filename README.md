@@ -21,9 +21,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-</p>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=JoelTanSG&show_icons=true&count_private=true" alt="JoelTanSG" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=JoelTanSG.JoelTanSG" alt="visitors"></p>
+</p>
 
 <!--
 **JoelTanSG/JoelTanSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
