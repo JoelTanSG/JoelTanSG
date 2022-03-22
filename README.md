@@ -14,6 +14,7 @@
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=JoelTanSG&style=flat-square&color=blue" alt=""/>
+  <img src="https://www.codewars.com/users/JoelTanSG/badges/micro" alt=""/>
 </div>
 
 <h1 align = "center">
