@@ -34,15 +34,11 @@
 
 ---
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelTanSG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=JoelTanSG&show_icons=true&count_private=true" alt="JoelTanSG" />
+<img src="https://github-readme-stats.vercel.app/api?username=JoelTanSG&show_icons=true&count_private=true&theme=gotham" alt="JoelTanSG" />
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelTanSG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
